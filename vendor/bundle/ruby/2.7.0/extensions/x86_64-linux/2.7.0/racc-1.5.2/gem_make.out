@@ -1,0 +1,16 @@
+current directory: /home/ruth/Development/code/rails/phase-4-using-active-model-serializer/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20230323-54890-h5vg9i.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/ruth/Development/code/rails/phase-4-using-active-model-serializer/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /home/ruth/Development/code/rails/phase-4-using-active-model-serializer/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/ruth/Development/code/rails/phase-4-using-active-model-serializer/vendor/bundle/ruby/2.7.0/gems/racc-1.5.2/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20230323-54890-18jyx40/racc
